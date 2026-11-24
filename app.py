@@ -1,4 +1,4 @@
-er_feature = ['산성', '중성', '염기성']
+water_feature = ['산성', '중성', '염기성']
 print('용액의 성질 계산기')
 while True:
   base = float(input('(1) 염기성 용액 양(ml): '))
